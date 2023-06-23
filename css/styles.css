@@ -395,7 +395,7 @@ ul {
 .general-works-wrap {
   display: flex;
   flex-wrap: wrap;
-  padding-bottom: 120px;
+  /* padding-bottom: 120px; */
   row-gap: 48px;
   column-gap: 24px;
 }
